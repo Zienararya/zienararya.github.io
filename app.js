@@ -1,7 +1,7 @@
-import { themeChange } from "theme-change";
+// import { themeChange } from "theme-change";
 
 // Initialize theme-change
-themeChange();
+// themeChange();
 const themeController = document.getElementById("themeController");
 
 themeController.addEventListener("change", function () {
